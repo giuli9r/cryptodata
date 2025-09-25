@@ -29,7 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 __________________________
 
-Directory structure:
+```Directory structure:
 └── cryptodata/
     ├── README.md
     ├── LICENSE
@@ -59,5 +59,4 @@ Directory structure:
             └── unit/
                 └── example.spec.js
 
-
-
+```
